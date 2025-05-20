@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "bff54064-c055-466e-9548-bc112e983a93"
+      }
+    },
+    "android": {
+      "package": "com.ourmine.tiktokdownloader"
+    }
+  }
+}
